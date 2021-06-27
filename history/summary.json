@@ -40,9 +40,9 @@
     "url": "https://admin.helpp-app.ch",
     "icon": "https://favicons.githubusercontent.com/admin.helpp-app.ch",
     "slug": "helpp-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 2298,
     "timeMonth": 2305,
     "timeYear": 2305,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-27": 0
+    }
   }
 ]
