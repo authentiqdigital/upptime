@@ -9,6 +9,12 @@ sites:
     url: https://ct.authentiq.ch
   - name: Helpp Admin
     url: https://admin.helpp-app.ch
+  - name: hp immobilien + verwaltungs ag
+    url: https://www.immo-hp.ch
+  - name: Bitfee IT-Dokumentation
+    url: https://www.doku.ch
+  - name: Andreas Iten
+    url: https://www.andreasiten.ch
 assignees:
   - ndersh
 status-website:
