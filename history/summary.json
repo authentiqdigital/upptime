@@ -363,14 +363,14 @@
     "icon": "https://favicons.githubusercontent.com/www.doku.ch",
     "slug": "bitfee-it-dokumentation",
     "status": "up",
-    "uptime": "96.31%",
+    "uptime": "96.32%",
     "uptimeDay": "91.75%",
     "uptimeWeek": "96.45%",
-    "uptimeMonth": "96.31%",
-    "uptimeYear": "96.31%",
+    "uptimeMonth": "96.32%",
+    "uptimeYear": "96.32%",
     "time": 4104,
     "timeDay": 4179,
-    "timeWeek": 4043,
+    "timeWeek": 4041,
     "timeMonth": 4104,
     "timeYear": 4104,
     "dailyMinutesDown": {
@@ -392,12 +392,12 @@
     "url": "https://www.andreasiten.ch",
     "icon": "https://favicons.githubusercontent.com/www.andreasiten.ch",
     "slug": "andreas-iten",
-    "status": "up",
-    "uptime": "75.29%",
-    "uptimeDay": "60.22%",
-    "uptimeWeek": "72.06%",
-    "uptimeMonth": "75.29%",
-    "uptimeYear": "75.29%",
+    "status": "down",
+    "uptime": "75.43%",
+    "uptimeDay": "60.20%",
+    "uptimeWeek": "72.05%",
+    "uptimeMonth": "75.43%",
+    "uptimeYear": "75.43%",
     "time": 171,
     "timeDay": 172,
     "timeWeek": 171,
@@ -413,7 +413,7 @@
       "2022-02-14": 311,
       "2022-02-13": 390,
       "2022-02-12": 304,
-      "2022-02-11": 166
+      "2022-02-11": 150
     }
   }
 ]
