@@ -400,12 +400,12 @@
     "url": "https://www.andreasiten.ch",
     "icon": "https://favicons.githubusercontent.com/www.andreasiten.ch",
     "slug": "andreas-iten",
-    "status": "up",
-    "uptime": "86.68%",
-    "uptimeDay": "81.71%",
+    "status": "down",
+    "uptime": "87.35%",
+    "uptimeDay": "83.05%",
     "uptimeWeek": "78.10%",
-    "uptimeMonth": "86.68%",
-    "uptimeYear": "86.68%",
+    "uptimeMonth": "87.35%",
+    "uptimeYear": "87.35%",
     "time": 289,
     "timeDay": 126,
     "timeWeek": 434,
@@ -421,8 +421,7 @@
       "2022-02-22": 313,
       "2022-02-21": 300,
       "2022-02-20": 532,
-      "2022-02-19": 476,
-      "2022-02-18": 12
+      "2022-02-19": 313
     }
   }
 ]
