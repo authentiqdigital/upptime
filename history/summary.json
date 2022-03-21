@@ -108,11 +108,11 @@
     "icon": "https://favicons.githubusercontent.com/ct.authentiq.ch",
     "slug": "contact-tracing",
     "status": "up",
-    "uptime": "30.03%",
+    "uptime": "30.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "30.03%",
+    "uptimeYear": "30.04%",
     "time": 238,
     "timeDay": 67,
     "timeWeek": 52,
@@ -419,15 +419,15 @@
     "url": "https://www.andreasiten.ch",
     "icon": "https://favicons.githubusercontent.com/www.andreasiten.ch",
     "slug": "andreas-iten",
-    "status": "up",
-    "uptime": "93.34%",
-    "uptimeDay": "86.77%",
-    "uptimeWeek": "73.35%",
-    "uptimeMonth": "91.46%",
-    "uptimeYear": "93.34%",
+    "status": "down",
+    "uptime": "93.50%",
+    "uptimeDay": "86.76%",
+    "uptimeWeek": "73.59%",
+    "uptimeMonth": "91.64%",
+    "uptimeYear": "93.50%",
     "time": 249,
     "timeDay": 593,
-    "timeWeek": 224,
+    "timeWeek": 213,
     "timeMonth": 283,
     "timeYear": 249,
     "dailyMinutesDown": {
@@ -440,7 +440,7 @@
       "2022-03-15": 408,
       "2022-03-14": 350,
       "2022-03-13": 397,
-      "2022-03-12": 413
+      "2022-03-12": 330
     }
   }
 ]
