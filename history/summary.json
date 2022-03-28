@@ -108,11 +108,11 @@
     "icon": "https://favicons.githubusercontent.com/ct.authentiq.ch",
     "slug": "contact-tracing",
     "status": "up",
-    "uptime": "31.76%",
+    "uptime": "31.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "31.76%",
+    "uptimeYear": "31.78%",
     "time": 235,
     "timeDay": 89,
     "timeWeek": 83,
@@ -364,12 +364,12 @@
     "url": "https://www.doku.ch",
     "icon": "https://favicons.githubusercontent.com/www.doku.ch",
     "slug": "bitfee-it-dokumentation",
-    "status": "up",
-    "uptime": "96.01%",
-    "uptimeDay": "89.53%",
-    "uptimeWeek": "94.09%",
-    "uptimeMonth": "94.85%",
-    "uptimeYear": "96.01%",
+    "status": "down",
+    "uptime": "96.07%",
+    "uptimeDay": "89.74%",
+    "uptimeWeek": "94.08%",
+    "uptimeMonth": "94.93%",
+    "uptimeYear": "96.07%",
     "time": 4090,
     "timeDay": 4231,
     "timeWeek": 4146,
@@ -406,8 +406,7 @@
       "2022-02-27": 38,
       "2022-02-26": 79,
       "2022-02-25": 108,
-      "2022-02-24": 28,
-      "2022-02-23": 37
+      "2022-02-24": 28
     }
   },
   {
@@ -416,18 +415,18 @@
     "icon": "https://favicons.githubusercontent.com/www.andreasiten.ch",
     "slug": "andreas-iten",
     "status": "up",
-    "uptime": "95.07%",
-    "uptimeDay": "82.00%",
-    "uptimeWeek": "73.98%",
-    "uptimeMonth": "92.54%",
-    "uptimeYear": "95.07%",
+    "uptime": "94.85%",
+    "uptimeDay": "84.02%",
+    "uptimeWeek": "74.17%",
+    "uptimeMonth": "92.20%",
+    "uptimeYear": "94.85%",
     "time": 249,
-    "timeDay": 359,
-    "timeWeek": 306,
+    "timeDay": 315,
+    "timeWeek": 248,
     "timeMonth": 221,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2022-03-28": 197,
+      "2022-03-28": 185,
       "2022-03-27": 239,
       "2022-03-26": 330,
       "2022-03-25": 486,
@@ -436,7 +435,7 @@
       "2022-03-22": 344,
       "2022-03-21": 251,
       "2022-03-20": 317,
-      "2022-03-19": 193
+      "2022-03-19": 354
     }
   }
 ]
