@@ -415,15 +415,15 @@
     "url": "https://www.andreasiten.ch",
     "icon": "https://favicons.githubusercontent.com/www.andreasiten.ch",
     "slug": "andreas-iten",
-    "status": "up",
-    "uptime": "94.60%",
-    "uptimeDay": "80.98%",
-    "uptimeWeek": "74.22%",
-    "uptimeMonth": "91.89%",
-    "uptimeYear": "94.60%",
+    "status": "down",
+    "uptime": "94.68%",
+    "uptimeDay": "81.35%",
+    "uptimeWeek": "74.35%",
+    "uptimeMonth": "92.01%",
+    "uptimeYear": "94.68%",
     "time": 246,
-    "timeDay": 181,
-    "timeWeek": 285,
+    "timeDay": 184,
+    "timeWeek": 286,
     "timeMonth": 215,
     "timeYear": 246,
     "dailyMinutesDown": {
@@ -437,7 +437,7 @@
       "2022-03-21": 251,
       "2022-03-20": 317,
       "2022-03-19": 472,
-      "2022-03-18": 122
+      "2022-03-18": 66
     }
   }
 ]
