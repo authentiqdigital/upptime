@@ -108,11 +108,11 @@
     "icon": "https://favicons.githubusercontent.com/ct.authentiq.ch",
     "slug": "contact-tracing",
     "status": "up",
-    "uptime": "33.03%",
+    "uptime": "33.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "33.03%",
+    "uptimeYear": "33.05%",
     "time": 233,
     "timeDay": 206,
     "timeWeek": 117,
@@ -365,18 +365,18 @@
     "icon": "https://favicons.githubusercontent.com/www.doku.ch",
     "slug": "bitfee-it-dokumentation",
     "status": "up",
-    "uptime": "96.48%",
-    "uptimeDay": "95.46%",
-    "uptimeWeek": "93.11%",
-    "uptimeMonth": "94.30%",
-    "uptimeYear": "96.48%",
+    "uptime": "96.45%",
+    "uptimeDay": "96.45%",
+    "uptimeWeek": "93.25%",
+    "uptimeMonth": "94.33%",
+    "uptimeYear": "96.45%",
     "time": 4092,
-    "timeDay": 4326,
+    "timeDay": 4389,
     "timeWeek": 4150,
     "timeMonth": 4031,
     "timeYear": 4092,
     "dailyMinutesDown": {
-      "2022-04-02": 65,
+      "2022-04-02": 51,
       "2022-04-01": 98,
       "2022-03-31": 175,
       "2022-03-30": 25,
@@ -406,7 +406,7 @@
       "2022-03-04": 127,
       "2022-03-03": 59,
       "2022-03-02": 47,
-      "2022-03-01": 63
+      "2022-03-01": 105
     }
   },
   {
@@ -416,17 +416,17 @@
     "slug": "andreas-iten",
     "status": "up",
     "uptime": "95.63%",
-    "uptimeDay": "76.83%",
-    "uptimeWeek": "74.89%",
-    "uptimeMonth": "92.62%",
+    "uptimeDay": "81.96%",
+    "uptimeWeek": "75.06%",
+    "uptimeMonth": "92.61%",
     "uptimeYear": "95.63%",
     "time": 245,
-    "timeDay": 354,
-    "timeWeek": 252,
+    "timeDay": 376,
+    "timeWeek": 226,
     "timeMonth": 224,
     "timeYear": 245,
     "dailyMinutesDown": {
-      "2022-04-02": 328,
+      "2022-04-02": 314,
       "2022-04-01": 280,
       "2022-03-31": 349,
       "2022-03-30": 635,
@@ -434,7 +434,7 @@
       "2022-03-28": 281,
       "2022-03-27": 239,
       "2022-03-26": 330,
-      "2022-03-25": 375
+      "2022-03-25": 394
     }
   }
 ]
