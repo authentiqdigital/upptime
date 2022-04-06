@@ -108,11 +108,11 @@
     "icon": "https://favicons.githubusercontent.com/ct.authentiq.ch",
     "slug": "contact-tracing",
     "status": "up",
-    "uptime": "33.80%",
+    "uptime": "33.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "33.80%",
+    "uptimeYear": "33.81%",
     "time": 231,
     "timeDay": 64,
     "timeWeek": 97,
@@ -365,18 +365,18 @@
     "icon": "https://favicons.githubusercontent.com/www.doku.ch",
     "slug": "bitfee-it-dokumentation",
     "status": "up",
-    "uptime": "96.57%",
-    "uptimeDay": "97.12%",
-    "uptimeWeek": "92.80%",
-    "uptimeMonth": "94.17%",
-    "uptimeYear": "96.57%",
+    "uptime": "96.56%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "93.16%",
+    "uptimeMonth": "94.20%",
+    "uptimeYear": "96.56%",
     "time": 4088,
     "timeDay": 3870,
-    "timeWeek": 4107,
-    "timeMonth": 4048,
+    "timeWeek": 4097,
+    "timeMonth": 4045,
     "timeYear": 4088,
     "dailyMinutesDown": {
-      "2022-04-06": 42,
+      "2022-04-06": 30,
       "2022-04-05": 26,
       "2022-04-04": 309,
       "2022-04-02": 51,
@@ -406,7 +406,7 @@
       "2022-03-07": 116,
       "2022-03-06": 45,
       "2022-03-05": 75,
-      "2022-03-04": 34
+      "2022-03-04": 52
     }
   },
   {
@@ -414,15 +414,15 @@
     "url": "https://www.andreasiten.ch",
     "icon": "https://favicons.githubusercontent.com/www.andreasiten.ch",
     "slug": "andreas-iten",
-    "status": "up",
-    "uptime": "95.18%",
-    "uptimeDay": "73.65%",
-    "uptimeWeek": "70.26%",
-    "uptimeMonth": "91.32%",
-    "uptimeYear": "95.18%",
+    "status": "down",
+    "uptime": "95.21%",
+    "uptimeDay": "74.92%",
+    "uptimeWeek": "70.62%",
+    "uptimeMonth": "91.38%",
+    "uptimeYear": "95.21%",
     "time": 242,
-    "timeDay": 118,
-    "timeWeek": 190,
+    "timeDay": 108,
+    "timeWeek": 191,
     "timeMonth": 205,
     "timeYear": 242,
     "dailyMinutesDown": {
@@ -435,7 +435,7 @@
       "2022-03-31": 349,
       "2022-03-30": 635,
       "2022-03-29": 415,
-      "2022-03-28": 96
+      "2022-03-28": 70
     }
   }
 ]
