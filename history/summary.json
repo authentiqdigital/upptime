@@ -364,12 +364,12 @@
     "url": "https://www.doku.ch",
     "icon": "https://favicons.githubusercontent.com/www.doku.ch",
     "slug": "bitfee-it-dokumentation",
-    "status": "up",
-    "uptime": "96.61%",
-    "uptimeDay": "93.54%",
-    "uptimeWeek": "93.26%",
+    "status": "down",
+    "uptime": "96.64%",
+    "uptimeDay": "93.52%",
+    "uptimeWeek": "93.25%",
     "uptimeMonth": "94.10%",
-    "uptimeYear": "96.61%",
+    "uptimeYear": "96.64%",
     "time": 4080,
     "timeDay": 3461,
     "timeWeek": 4084,
@@ -405,8 +405,7 @@
       "2022-03-09": 124,
       "2022-03-08": 37,
       "2022-03-07": 116,
-      "2022-03-06": 45,
-      "2022-03-05": 25
+      "2022-03-06": 45
     }
   },
   {
@@ -416,8 +415,8 @@
     "slug": "andreas-iten",
     "status": "up",
     "uptime": "95.19%",
-    "uptimeDay": "59.00%",
-    "uptimeWeek": "67.61%",
+    "uptimeDay": "60.57%",
+    "uptimeWeek": "67.85%",
     "uptimeMonth": "91.09%",
     "uptimeYear": "95.19%",
     "time": 240,
