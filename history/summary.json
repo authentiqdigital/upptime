@@ -108,11 +108,11 @@
     "icon": "https://favicons.githubusercontent.com/ct.authentiq.ch",
     "slug": "contact-tracing",
     "status": "up",
-    "uptime": "34.40%",
+    "uptime": "34.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "34.40%",
+    "uptimeYear": "34.41%",
     "time": 233,
     "timeDay": 62,
     "timeWeek": 258,
@@ -373,7 +373,7 @@
     "time": 4090,
     "timeDay": 4234,
     "timeWeek": 4116,
-    "timeMonth": 4072,
+    "timeMonth": 4086,
     "timeYear": 4090,
     "dailyMinutesDown": {
       "2022-04-08": 90,
@@ -415,17 +415,17 @@
     "slug": "andreas-iten",
     "status": "up",
     "uptime": "95.34%",
-    "uptimeDay": "68.45%",
-    "uptimeWeek": "66.00%",
-    "uptimeMonth": "91.21%",
+    "uptimeDay": "73.72%",
+    "uptimeWeek": "66.68%",
+    "uptimeMonth": "91.20%",
     "uptimeYear": "95.34%",
     "time": 243,
-    "timeDay": 269,
-    "timeWeek": 239,
+    "timeDay": 136,
+    "timeWeek": 241,
     "timeMonth": 214,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2022-04-08": 449,
+      "2022-04-08": 437,
       "2022-04-07": 579,
       "2022-04-06": 480,
       "2022-04-05": 447,
@@ -433,7 +433,7 @@
       "2022-04-03": 415,
       "2022-04-02": 314,
       "2022-04-01": 280,
-      "2022-03-31": 146
+      "2022-03-31": 165
     }
   }
 ]
