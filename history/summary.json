@@ -108,11 +108,11 @@
     "icon": "https://favicons.githubusercontent.com/ct.authentiq.ch",
     "slug": "contact-tracing",
     "status": "up",
-    "uptime": "34.54%",
+    "uptime": "34.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "34.54%",
+    "uptimeYear": "34.55%",
     "time": 233,
     "timeDay": 62,
     "timeWeek": 258,
@@ -365,18 +365,18 @@
     "icon": "https://favicons.githubusercontent.com/www.doku.ch",
     "slug": "bitfee-it-dokumentation",
     "status": "up",
-    "uptime": "96.27%",
-    "uptimeDay": "67.16%",
-    "uptimeWeek": "89.67%",
-    "uptimeMonth": "93.05%",
-    "uptimeYear": "96.27%",
+    "uptime": "96.24%",
+    "uptimeDay": "67.97%",
+    "uptimeWeek": "89.79%",
+    "uptimeMonth": "93.13%",
+    "uptimeYear": "96.24%",
     "time": 4093,
     "timeDay": 4303,
     "timeWeek": 4123,
     "timeMonth": 4095,
     "timeYear": 4093,
     "dailyMinutesDown": {
-      "2022-04-09": 408,
+      "2022-04-09": 396,
       "2022-04-08": 90,
       "2022-04-07": 133,
       "2022-04-06": 75,
@@ -406,7 +406,7 @@
       "2022-03-10": 184,
       "2022-03-09": 124,
       "2022-03-08": 37,
-      "2022-03-07": 19
+      "2022-03-07": 56
     }
   },
   {
@@ -414,16 +414,16 @@
     "url": "https://www.andreasiten.ch",
     "icon": "https://favicons.githubusercontent.com/www.andreasiten.ch",
     "slug": "andreas-iten",
-    "status": "up",
-    "uptime": "95.34%",
-    "uptimeDay": "74.18%",
+    "status": "down",
+    "uptime": "95.39%",
+    "uptimeDay": "75.51%",
     "uptimeWeek": "67.11%",
-    "uptimeMonth": "91.11%",
-    "uptimeYear": "95.34%",
+    "uptimeMonth": "91.19%",
+    "uptimeYear": "95.39%",
     "time": 242,
-    "timeDay": 110,
+    "timeDay": 116,
     "timeWeek": 217,
-    "timeMonth": 213,
+    "timeMonth": 214,
     "timeYear": 242,
     "dailyMinutesDown": {
       "2022-04-09": 139,
@@ -435,7 +435,7 @@
       "2022-04-03": 415,
       "2022-04-02": 314,
       "2022-04-01": 280,
-      "2022-03-31": 64
+      "2022-03-31": 27
     }
   }
 ]
