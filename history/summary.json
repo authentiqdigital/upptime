@@ -346,7 +346,7 @@
     "slug": "hp-immobilien-verwaltungs-ag",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.73%",
+    "uptimeDay": "99.64%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
@@ -366,18 +366,18 @@
     "icon": "https://favicons.githubusercontent.com/www.doku.ch",
     "slug": "bitfee-it-dokumentation",
     "status": "up",
-    "uptime": "96.45%",
-    "uptimeDay": "94.03%",
-    "uptimeWeek": "88.47%",
-    "uptimeMonth": "92.39%",
-    "uptimeYear": "96.45%",
+    "uptime": "96.44%",
+    "uptimeDay": "95.80%",
+    "uptimeWeek": "88.58%",
+    "uptimeMonth": "92.37%",
+    "uptimeYear": "96.44%",
     "time": 4126,
     "timeDay": 4332,
     "timeWeek": 4312,
     "timeMonth": 4177,
     "timeYear": 4126,
     "dailyMinutesDown": {
-      "2022-04-16": 67,
+      "2022-04-16": 55,
       "2022-04-15": 255,
       "2022-04-14": 64,
       "2022-04-13": 168,
@@ -402,7 +402,8 @@
       "2022-03-23": 86,
       "2022-03-22": 76,
       "2022-03-21": 146,
-      "2022-03-20": 17
+      "2022-03-20": 17,
+      "2022-03-19": 19
     }
   },
   {
@@ -410,12 +411,12 @@
     "url": "https://www.andreasiten.ch",
     "icon": "https://favicons.githubusercontent.com/www.andreasiten.ch",
     "slug": "andreas-iten",
-    "status": "up",
-    "uptime": "95.83%",
-    "uptimeDay": "66.26%",
-    "uptimeWeek": "70.37%",
-    "uptimeMonth": "91.06%",
-    "uptimeYear": "95.83%",
+    "status": "down",
+    "uptime": "95.88%",
+    "uptimeDay": "67.22%",
+    "uptimeWeek": "70.50%",
+    "uptimeMonth": "91.17%",
+    "uptimeYear": "95.88%",
     "time": 244,
     "timeDay": 129,
     "timeWeek": 271,
@@ -431,7 +432,7 @@
       "2022-04-10": 424,
       "2022-04-09": 288,
       "2022-04-08": 437,
-      "2022-04-07": 294
+      "2022-04-07": 246
     }
   }
 ]
