@@ -344,19 +344,19 @@
     "url": "https://www.immo-hp.ch",
     "icon": "https://favicons.githubusercontent.com/www.immo-hp.ch",
     "slug": "hp-immobilien-verwaltungs-ag",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 318,
-    "timeDay": 5131,
-    "timeWeek": 1371,
-    "timeMonth": 464,
-    "timeYear": 318,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "97.99%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.93%",
+    "time": 316,
+    "timeDay": 2628,
+    "timeWeek": 1233,
+    "timeMonth": 454,
+    "timeYear": 316,
     "dailyMinutesDown": {
-      "2022-04-23": 1,
+      "2022-04-23": 29,
       "2022-04-15": 18,
       "2022-03-03": 22
     }
@@ -366,19 +366,19 @@
     "url": "https://www.doku.ch",
     "icon": "https://favicons.githubusercontent.com/www.doku.ch",
     "slug": "bitfee-it-dokumentation",
-    "status": "up",
-    "uptime": "96.31%",
-    "uptimeDay": "81.83%",
+    "status": "down",
+    "uptime": "96.33%",
+    "uptimeDay": "81.78%",
     "uptimeWeek": "85.65%",
-    "uptimeMonth": "91.28%",
-    "uptimeYear": "96.31%",
+    "uptimeMonth": "91.31%",
+    "uptimeYear": "96.33%",
     "time": 4139,
     "timeDay": 4483,
     "timeWeek": 4183,
     "timeMonth": 4197,
     "timeYear": 4139,
     "dailyMinutesDown": {
-      "2022-04-23": 157,
+      "2022-04-23": 158,
       "2022-04-22": 340,
       "2022-04-21": 325,
       "2022-04-20": 127,
@@ -400,7 +400,7 @@
       "2022-04-04": 309,
       "2022-04-02": 51,
       "2022-04-01": 98,
-      "2022-03-31": 43
+      "2022-03-31": 27
     }
   },
   {
@@ -408,15 +408,15 @@
     "url": "https://www.andreasiten.ch",
     "icon": "https://favicons.githubusercontent.com/www.andreasiten.ch",
     "slug": "andreas-iten",
-    "status": "up",
-    "uptime": "95.57%",
-    "uptimeDay": "64.80%",
-    "uptimeWeek": "63.83%",
-    "uptimeMonth": "89.52%",
-    "uptimeYear": "95.57%",
+    "status": "down",
+    "uptime": "95.60%",
+    "uptimeDay": "64.78%",
+    "uptimeWeek": "64.06%",
+    "uptimeMonth": "89.60%",
+    "uptimeYear": "95.60%",
     "time": 299,
     "timeDay": 1544,
-    "timeWeek": 805,
+    "timeWeek": 812,
     "timeMonth": 357,
     "timeYear": 299,
     "dailyMinutesDown": {
@@ -429,7 +429,7 @@
       "2022-04-17": 450,
       "2022-04-16": 480,
       "2022-04-15": 477,
-      "2022-04-14": 177
+      "2022-04-14": 142
     }
   }
 ]
