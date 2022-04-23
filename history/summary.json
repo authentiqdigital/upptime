@@ -108,11 +108,11 @@
     "icon": "https://favicons.githubusercontent.com/ct.authentiq.ch",
     "slug": "contact-tracing",
     "status": "up",
-    "uptime": "37.48%",
+    "uptime": "37.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "37.48%",
+    "uptimeYear": "37.49%",
     "time": 243,
     "timeDay": 190,
     "timeWeek": 800,
@@ -344,10 +344,10 @@
     "url": "https://www.immo-hp.ch",
     "icon": "https://favicons.githubusercontent.com/www.immo-hp.ch",
     "slug": "hp-immobilien-verwaltungs-ag",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 318,
@@ -356,6 +356,7 @@
     "timeMonth": 464,
     "timeYear": 318,
     "dailyMinutesDown": {
+      "2022-04-23": 1,
       "2022-04-15": 18,
       "2022-03-03": 22
     }
@@ -374,7 +375,7 @@
     "time": 4139,
     "timeDay": 4483,
     "timeWeek": 4183,
-    "timeMonth": 4195,
+    "timeMonth": 4197,
     "timeYear": 4139,
     "dailyMinutesDown": {
       "2022-04-23": 157,
@@ -408,18 +409,18 @@
     "icon": "https://favicons.githubusercontent.com/www.andreasiten.ch",
     "slug": "andreas-iten",
     "status": "up",
-    "uptime": "95.59%",
-    "uptimeDay": "63.94%",
-    "uptimeWeek": "63.65%",
-    "uptimeMonth": "89.57%",
-    "uptimeYear": "95.59%",
+    "uptime": "95.57%",
+    "uptimeDay": "64.80%",
+    "uptimeWeek": "63.83%",
+    "uptimeMonth": "89.52%",
+    "uptimeYear": "95.57%",
     "time": 299,
-    "timeDay": 1728,
+    "timeDay": 1544,
     "timeWeek": 805,
     "timeMonth": 357,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2022-04-23": 329,
+      "2022-04-23": 317,
       "2022-04-22": 570,
       "2022-04-21": 535,
       "2022-04-20": 595,
@@ -428,7 +429,7 @@
       "2022-04-17": 450,
       "2022-04-16": 480,
       "2022-04-15": 477,
-      "2022-04-14": 142
+      "2022-04-14": 177
     }
   }
 ]
