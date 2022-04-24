@@ -346,12 +346,12 @@
     "slug": "hp-immobilien-verwaltungs-ag",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "96.63%",
+    "uptimeDay": "98.21%",
     "uptimeWeek": "98.82%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.85%",
     "time": 433,
-    "timeDay": 3570,
+    "timeDay": 2708,
     "timeWeek": 1603,
     "timeMonth": 697,
     "timeYear": 433,
@@ -409,16 +409,16 @@
     "url": "https://www.andreasiten.ch",
     "icon": "https://favicons.githubusercontent.com/www.andreasiten.ch",
     "slug": "andreas-iten",
-    "status": "up",
-    "uptime": "95.59%",
-    "uptimeDay": "51.68%",
+    "status": "down",
+    "uptime": "95.61%",
+    "uptimeDay": "53.28%",
     "uptimeWeek": "61.07%",
-    "uptimeMonth": "89.37%",
-    "uptimeYear": "95.59%",
+    "uptimeMonth": "89.43%",
+    "uptimeYear": "95.61%",
     "time": 322,
-    "timeDay": 1510,
+    "timeDay": 1605,
     "timeWeek": 1075,
-    "timeMonth": 419,
+    "timeMonth": 420,
     "timeYear": 322,
     "dailyMinutesDown": {
       "2022-04-24": 615,
@@ -429,7 +429,7 @@
       "2022-04-19": 456,
       "2022-04-18": 537,
       "2022-04-17": 450,
-      "2022-04-16": 299
+      "2022-04-16": 274
     }
   }
 ]
