@@ -108,11 +108,11 @@
     "icon": "https://favicons.githubusercontent.com/ct.authentiq.ch",
     "slug": "contact-tracing",
     "status": "up",
-    "uptime": "37.91%",
+    "uptime": "37.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "37.91%",
+    "uptimeYear": "37.92%",
     "time": 242,
     "timeDay": 92,
     "timeWeek": 807,
@@ -367,19 +367,19 @@
     "url": "https://www.doku.ch",
     "icon": "https://favicons.githubusercontent.com/www.doku.ch",
     "slug": "bitfee-it-dokumentation",
-    "status": "up",
-    "uptime": "96.41%",
-    "uptimeDay": "92.30%",
-    "uptimeWeek": "86.59%",
-    "uptimeMonth": "91.26%",
-    "uptimeYear": "96.41%",
+    "status": "down",
+    "uptime": "96.51%",
+    "uptimeDay": "92.96%",
+    "uptimeWeek": "86.58%",
+    "uptimeMonth": "91.50%",
+    "uptimeYear": "96.51%",
     "time": 4142,
-    "timeDay": 4267,
+    "timeDay": 4212,
     "timeWeek": 4225,
-    "timeMonth": 4215,
+    "timeMonth": 4217,
     "timeYear": 4142,
     "dailyMinutesDown": {
-      "2022-04-25": 100,
+      "2022-04-25": 101,
       "2022-04-24": 48,
       "2022-04-23": 208,
       "2022-04-22": 340,
@@ -400,7 +400,7 @@
       "2022-04-07": 133,
       "2022-04-06": 75,
       "2022-04-05": 26,
-      "2022-04-04": 309
+      "2022-04-04": 204
     }
   },
   {
@@ -408,15 +408,15 @@
     "url": "https://www.andreasiten.ch",
     "icon": "https://favicons.githubusercontent.com/www.andreasiten.ch",
     "slug": "andreas-iten",
-    "status": "up",
-    "uptime": "95.67%",
-    "uptimeDay": "59.39%",
-    "uptimeWeek": "60.51%",
-    "uptimeMonth": "89.46%",
-    "uptimeYear": "95.67%",
+    "status": "down",
+    "uptime": "95.71%",
+    "uptimeDay": "62.82%",
+    "uptimeWeek": "60.67%",
+    "uptimeMonth": "89.54%",
+    "uptimeYear": "95.71%",
     "time": 327,
     "timeDay": 982,
-    "timeWeek": 1137,
+    "timeWeek": 1142,
     "timeMonth": 440,
     "timeYear": 327,
     "dailyMinutesDown": {
@@ -428,7 +428,7 @@
       "2022-04-20": 595,
       "2022-04-19": 456,
       "2022-04-18": 537,
-      "2022-04-17": 274
+      "2022-04-17": 238
     }
   }
 ]
