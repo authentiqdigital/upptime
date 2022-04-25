@@ -367,12 +367,12 @@
     "url": "https://www.doku.ch",
     "icon": "https://favicons.githubusercontent.com/www.doku.ch",
     "slug": "bitfee-it-dokumentation",
-    "status": "up",
-    "uptime": "96.41%",
-    "uptimeDay": "91.00%",
-    "uptimeWeek": "86.59%",
-    "uptimeMonth": "91.26%",
-    "uptimeYear": "96.41%",
+    "status": "down",
+    "uptime": "96.51%",
+    "uptimeDay": "90.97%",
+    "uptimeWeek": "86.58%",
+    "uptimeMonth": "91.50%",
+    "uptimeYear": "96.51%",
     "time": 4142,
     "timeDay": 4294,
     "timeWeek": 4228,
@@ -400,7 +400,7 @@
       "2022-04-07": 133,
       "2022-04-06": 75,
       "2022-04-05": 26,
-      "2022-04-04": 309
+      "2022-04-04": 204
     }
   },
   {
