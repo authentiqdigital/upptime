@@ -369,7 +369,7 @@
     "slug": "bitfee-it-dokumentation",
     "status": "down",
     "uptime": "93.28%",
-    "uptimeDay": "29.12%",
+    "uptimeDay": "31.92%",
     "uptimeWeek": "55.23%",
     "uptimeMonth": "82.98%",
     "uptimeYear": "93.28%",
@@ -411,16 +411,16 @@
     "url": "https://www.andreasiten.ch",
     "icon": "https://favicons.githubusercontent.com/www.andreasiten.ch",
     "slug": "andreas-iten",
-    "status": "up",
-    "uptime": "94.11%",
-    "uptimeDay": "32.65%",
+    "status": "down",
+    "uptime": "94.14%",
+    "uptimeDay": "34.98%",
     "uptimeWeek": "46.02%",
-    "uptimeMonth": "85.08%",
-    "uptimeYear": "94.11%",
+    "uptimeMonth": "85.15%",
+    "uptimeYear": "94.14%",
     "time": 326,
     "timeDay": 594,
-    "timeWeek": 1146,
-    "timeMonth": 456,
+    "timeWeek": 1157,
+    "timeMonth": 450,
     "timeYear": 326,
     "dailyMinutesDown": {
       "2022-04-28": 511,
@@ -432,7 +432,7 @@
       "2022-04-22": 570,
       "2022-04-21": 535,
       "2022-04-20": 595,
-      "2022-04-19": 171
+      "2022-04-19": 143
     }
   }
 ]
