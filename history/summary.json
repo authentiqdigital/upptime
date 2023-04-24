@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.authentiq.ch.ico",
     "slug": "authentiq",
     "status": "up",
-    "uptime": "87.58%",
+    "uptime": "87.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 192,
-    "timeDay": 72,
-    "timeWeek": 201,
-    "timeMonth": 217,
+    "timeDay": 147,
+    "timeWeek": 199,
+    "timeMonth": 218,
     "timeYear": 208,
     "dailyMinutesDown": {
       "2023-01-07": 16,
@@ -27,16 +27,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ct.authentiq.ch.ico",
     "slug": "contact-tracing",
     "status": "up",
-    "uptime": "71.32%",
+    "uptime": "71.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 186,
-    "timeDay": 159,
-    "timeWeek": 329,
-    "timeMonth": 234,
-    "timeYear": 192,
+    "timeDay": 146,
+    "timeWeek": 220,
+    "timeMonth": 229,
+    "timeYear": 193,
     "dailyMinutesDown": {
       "2022-07-28": 27
     }
@@ -53,10 +53,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2079,
-    "timeDay": 2630,
-    "timeWeek": 2657,
-    "timeMonth": 2455,
-    "timeYear": 2067,
+    "timeDay": 2392,
+    "timeWeek": 2574,
+    "timeMonth": 2459,
+    "timeYear": 2068,
     "dailyMinutesDown": {
       "2022-07-01": 20,
       "2022-06-30": 21,
@@ -74,15 +74,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 294,
-    "timeDay": 172,
-    "timeWeek": 259,
-    "timeMonth": 252,
-    "timeYear": 289,
+    "timeDay": 168,
+    "timeWeek": 238,
+    "timeMonth": 239,
+    "timeYear": 262,
     "dailyMinutesDown": {
-      "2022-07-28": 26,
-      "2022-04-24": 26
+      "2022-07-28": 26
     }
   },
   {
@@ -91,16 +90,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.doku.ch.ico",
     "slug": "bitfee-it-dokumentation",
     "status": "up",
-    "uptime": "97.67%",
+    "uptime": "97.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.84%",
-    "time": 4466,
-    "timeDay": 5739,
-    "timeWeek": 6315,
-    "timeMonth": 6045,
-    "timeYear": 4518,
+    "uptimeYear": "97.87%",
+    "time": 4490,
+    "timeDay": 6305,
+    "timeWeek": 6301,
+    "timeMonth": 6047,
+    "timeYear": 4527,
     "dailyMinutesDown": {
       "2022-07-28": 25,
       "2022-05-03": 1076,
@@ -111,8 +110,7 @@
       "2022-04-28": 949,
       "2022-04-27": 1426,
       "2022-04-26": 1440,
-      "2022-04-25": 544,
-      "2022-04-24": 48
+      "2022-04-25": 544
     }
   },
   {
@@ -121,16 +119,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.andreasiten.ch.ico",
     "slug": "andreas-iten",
     "status": "up",
-    "uptime": "99.09%",
+    "uptime": "99.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.92%",
-    "time": 459,
-    "timeDay": 294,
-    "timeWeek": 238,
-    "timeMonth": 278,
-    "timeYear": 370,
+    "uptimeYear": "99.00%",
+    "time": 447,
+    "timeDay": 222,
+    "timeWeek": 237,
+    "timeMonth": 276,
+    "timeYear": 348,
     "dailyMinutesDown": {
       "2022-05-03": 258,
       "2022-05-02": 223,
@@ -140,8 +138,7 @@
       "2022-04-28": 633,
       "2022-04-27": 1005,
       "2022-04-26": 1122,
-      "2022-04-25": 764,
-      "2022-04-24": 659
+      "2022-04-25": 764
     }
   },
   {
@@ -155,11 +152,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3493,
-    "timeDay": 5352,
-    "timeWeek": 5513,
-    "timeMonth": 5380,
-    "timeYear": 3493,
+    "time": 3484,
+    "timeDay": 725,
+    "timeWeek": 4799,
+    "timeMonth": 5216,
+    "timeYear": 3484,
     "dailyMinutesDown": {
       "2022-08-13": 19
     }
