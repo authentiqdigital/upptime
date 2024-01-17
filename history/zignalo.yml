@@ -1,7 +1,7 @@
 url: https://www.zignalo.com
-status: up
-code: 200
-responseTime: 583
-lastUpdated: 2024-01-16T23:11:01.317Z
+status: down
+code: 500
+responseTime: 243
+lastUpdated: 2024-01-17T21:45:08.660Z
 startTime: 2022-06-02T06:18:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
