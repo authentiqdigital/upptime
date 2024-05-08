@@ -36,7 +36,7 @@
     "timeMonth": 115,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2024-05-08": 930,
+      "2024-05-08": 940,
       "2024-05-07": 1440,
       "2024-05-06": 1440,
       "2024-05-05": 1440,
@@ -277,19 +277,19 @@
     "url": "https://www.zignalo.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.zignalo.com.ico",
     "slug": "zignalo",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 4071,
-    "timeDay": 3593,
-    "timeWeek": 2963,
-    "timeMonth": 3359,
-    "timeYear": 4087,
+    "time": 4064,
+    "timeDay": 2206,
+    "timeWeek": 2695,
+    "timeMonth": 3277,
+    "timeYear": 4078,
     "dailyMinutesDown": {
-      "2024-05-08": 0
+      "2024-05-08": 10
     }
   }
 ]
