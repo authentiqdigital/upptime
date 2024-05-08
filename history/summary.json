@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ct.authentiq.ch.ico",
     "slug": "contact-tracing",
     "status": "down",
-    "uptime": "66.66%",
+    "uptime": "66.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "56.61%",
+    "uptimeYear": "56.45%",
     "time": 182,
     "timeDay": 49,
     "timeWeek": 114,
     "timeMonth": 115,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2024-05-08": 54,
+      "2024-05-08": 930,
       "2024-05-07": 1440,
       "2024-05-06": 1440,
       "2024-05-05": 1440,
@@ -277,17 +277,19 @@
     "url": "https://www.zignalo.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.zignalo.com.ico",
     "slug": "zignalo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4064,
+    "time": 4071,
     "timeDay": 3593,
     "timeWeek": 2963,
     "timeMonth": 3359,
     "timeYear": 4087,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-08": 0
+    }
   }
 ]
