@@ -26,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ct.authentiq.ch.ico",
     "slug": "contact-tracing",
     "status": "down",
-    "uptime": "53.52%",
+    "uptime": "53.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -37,7 +37,7 @@
     "timeMonth": 126,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2025-01-22": 81,
+      "2025-01-22": 834,
       "2025-01-21": 1440,
       "2025-01-20": 1440,
       "2025-01-19": 1440,
@@ -409,9 +409,9 @@
     "url": "https://admin.helpp-app.ch",
     "icon": "https://icons.duckduckgo.com/ip3/admin.helpp-app.ch.ico",
     "slug": "helpp-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -420,7 +420,9 @@
     "timeWeek": 2040,
     "timeMonth": 1995,
     "timeYear": 1896,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-22": 0
+    }
   },
   {
     "name": "hp immobilien + verwaltungs ag",
