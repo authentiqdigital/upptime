@@ -1,7 +1,7 @@
 url: https://admin.helpp-app.ch
-status: up
-code: 200
-responseTime: 2263
-lastUpdated: 2025-08-23T23:14:14.904Z
+status: down
+code: 403
+responseTime: 172
+lastUpdated: 2025-08-24T19:10:28.131Z
 startTime: 2021-06-18T12:16:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
